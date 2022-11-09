@@ -1,0 +1,3 @@
+- 18:28 09/11/2022
+- Sergio González Romero
+- Trabajo de la rama "funcionalidad_3_SGR"
