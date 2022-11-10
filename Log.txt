@@ -1,0 +1,8 @@
+He creado el repositorio en github.
+He creado el fichero proyecto.txt y una rama llamada funcionalidad_1_LCV.
+He creado el fichero LCV, le he añadido la información pedida, y le he hecho commit.
+He creado la rama control_procesos y le he añadido la información pedida.
+Francisco ha creado la rama funcionalidad_2_FJBB y ha añadido el fichero FJBB.txt.
+He creado la rama control_procesos_2 y he añadido la información pedida.
+Sergio ha creado la rama funcionalidad_3_SGR y ha añadido el fichero SGR.txt.
+He creado la rama control_procesos_3 y he añadido la información pedida.
